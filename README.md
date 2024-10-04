@@ -60,5 +60,5 @@ pip install numpy pandas matplotlib tensorflow keras scikit-learn
     cd <repository_directory>
 2) Ensure you have the required libraries installed.
 3) Run the Python script to train the model and make predictions:
-     python <Filename>
+     python Filename
 4) The script will display a plot showing the original test stock prices and the model's predicted prices.
